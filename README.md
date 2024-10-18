@@ -18,7 +18,7 @@ Midjourney API Converter 是一个中间件服务，用于转换 Midjourney API 
 ## 安装
 
 1. 克隆仓库:   ```
-   git clone https://github.com/yourusername/midjourney-api-converter.git
+   git clone https://github.com/https://github.com/SophiaRainy/MJ-LK
    cd midjourney-api-converter   ```
 
 2. 安装依赖:   ```
